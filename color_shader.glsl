@@ -9,7 +9,7 @@ vec3 colorA = vec3(0.912,0.118,0.757);
 vec3 colorB = vec3(0.123,0.079,1.000);
 
 void main() {
-    vec3 FinalColor = vec3(0.060,0.036,0.047);
+    vec3 FinalColor = vec3(0.060,0.036,0.057);
 
     float rgb = abs(sin(u_time));
 
